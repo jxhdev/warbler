@@ -1,4 +1,3 @@
 # Warbler
 
-Hey
-A Twitter clone
+Twitter clone built with Python, Flask, PostgreSQL and Jinja on the front end.
